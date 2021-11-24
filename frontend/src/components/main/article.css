@@ -1,0 +1,18 @@
+.postArea{
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #f5f5f5;
+}
+.articleRow{
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+}
+.articleimg{
+    text-align: center;
+    margin-top: 40px;
+}
+.articletxt{
+    text-align: center;
+    margin-top: 40px;
+}

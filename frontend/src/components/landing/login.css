@@ -1,0 +1,42 @@
+.title_login_page{
+    font-family: "Comic Sans MS";
+    font-size: 60px;
+    padding: 0;
+    text-align: center;
+}
+.warning_login_page{
+    font-size: 10px;
+    color: red;
+    padding: 0;
+    text-align: center;
+}
+.wrapper_login_form{
+    width: 40%;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 10%;
+    margin-left: 50%;
+
+    border: 1px solid #ccc;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.login_form_item {
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+.button_signin {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.button_signup {
+    width: 100px;
+}

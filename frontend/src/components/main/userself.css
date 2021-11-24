@@ -1,0 +1,23 @@
+.title{
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    background-color: #f5f5f5;
+}
+.accont{
+    border: 1px solid #ddd;
+}
+.inner{
+    padding: 20px;
+}
+.inner_ava{
+    text-align: center;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.inner_txt{
+    padding-top: 20px;
+}
+.updatestatus{
+    text-align: center;
+}

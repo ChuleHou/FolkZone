@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="hw6-backend test" errors="0" tests="8" failures="0" time="0.739" timestamp="2021-11-19T15:32:03">
+  <testcase classname="hw6-backend test" name="POST /register" time="0.09"></testcase>
+  <testcase classname="hw6-backend test" name="POST /login " time="0.289"></testcase>
+  <testcase classname="hw6-backend test" name="GET /headline " time="0.047"></testcase>
+  <testcase classname="hw6-backend test" name="GET /headline " time="0.055"></testcase>
+  <testcase classname="hw6-backend test" name="POST /article" time="0.109"></testcase>
+  <testcase classname="hw6-backend test" name="GET /articles " time="0.09"></testcase>
+  <testcase classname="hw6-backend test" name="GET /articles/id " time="0.045"></testcase>
+  <testcase classname="hw6-backend test" name="PUT /logout " time="0.013"></testcase>
+</testsuite>
+</testsuites>
